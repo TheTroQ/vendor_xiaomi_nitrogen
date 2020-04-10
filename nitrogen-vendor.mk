@@ -1272,7 +1272,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/nitrogen/proprietary/vendor/radio/qcril_database/qcril.db:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/qcril.db
 
 PRODUCT_PACKAGES += \
-    libantradio \
+    #libantradio \
     vendor.qti.hardware.fm@1.0 \
     libgpustats \
     libsdm-disp-vndapis \
@@ -1286,7 +1286,7 @@ PRODUCT_PACKAGES += \
     com.quicinc.cne.server@2.1 \
     com.quicinc.cne.server@2.2 \
     #QtiTelephonyService \
-    SoterService \
+    #SoterService \
     #datastatusnotification \
     #embms \
     #CNEService \
@@ -1301,6 +1301,6 @@ PRODUCT_PACKAGES += \
     #PowerOffAlarm \
     #TimeService \
     #WfdCommon \
-    HotwordEnrollmentOKGoogleWCD9340 \
-    HotwordEnrollmentXGoogleWCD9340 \
+    #HotwordEnrollmentOKGoogleWCD9340 \
+    #HotwordEnrollmentXGoogleWCD9340 \
     chargeonlymode
