@@ -1285,22 +1285,22 @@ PRODUCT_PACKAGES += \
     com.quicinc.cne.server@2.0 \
     com.quicinc.cne.server@2.1 \
     com.quicinc.cne.server@2.2 \
-    QtiTelephonyService \
+    #QtiTelephonyService \
     SoterService \
-    datastatusnotification \
-    embms \
-    CNEService \
-    WfdService \
+    #datastatusnotification \
+    #embms \
+    #CNEService \
+    #WfdService \
     QPerformance \
     UxPerformance \
-    dpmserviceapp \
-    ims \
-    qcrilmsgtunnel \
-    imssettings \
+    #dpmserviceapp \
+    #ims \
+    #qcrilmsgtunnel \
+    #imssettings \
     FingerprintExtensionService \
-    PowerOffAlarm \
-    TimeService \
-    WfdCommon \
+    #PowerOffAlarm \
+    #TimeService \
+    #WfdCommon \
     HotwordEnrollmentOKGoogleWCD9340 \
     HotwordEnrollmentXGoogleWCD9340 \
     chargeonlymode
